@@ -1,0 +1,8 @@
+.idea
+__pycache__
+database.sqlite3
+main (2).py
+test.py
+test2.py
+Pipfile
+LifeSimulatorPrivate-master
